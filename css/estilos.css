@@ -1,0 +1,75 @@
+
+body {
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+/* ESTILOS DO HEADER */
+
+.encabezado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ae74ff;
+    height: 100px;
+    width: 100%;
+}
+
+.columna_tarjetas{
+    flex: 60%;
+    max-height: 800px; /* Altura máxima del contenedor antes de que aparezca la barra de desplazamiento */
+    overflow-y: auto;
+}
+
+.columna_formulario{
+    flex: 40%; 
+    margin-left: 20px; 
+}
+
+.productos__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card-body{
+    background-color: #ae74ff;
+}
+
+.card-title{
+    color: #f0f0f0;
+    font-size: 17px;
+}
+
+.card-text{
+    color: #f0f0f0;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.btn_card {
+    color: white;
+    text-decoration: none;
+    transition: transform 0.1s ease-out;
+    cursor: pointer;
+    -webkit-transition: transform 0.1s ease-out;
+    -moz-transition: transform 0.1s ease-out;
+    -ms-transition: transform 0.1s ease-out;
+    -o-transition: transform 0.1s ease-out;
+}
+
+.btn_card:hover {
+    transform: scale(1.2); 
+}
+
+.contenedor_card{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+}
+
+.card {
+    border-radius: 50px; 
+    overflow: hidden; 
+    margin: 3px;
+}

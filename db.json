@@ -1,0 +1,40 @@
+{
+  "productos": [
+    {
+      "id": "c24f",
+      "nombre": "Gameboy ",
+      "precio": "s/. 50.0",
+      "imagen": "https://i5.walmartimages.com/seo/Nintendo-GameBoy-Game-Boy-Color-Berry-Red-Authentic-Used-Excellent-Condition_2ede88ce-3532-4700-b4cd-47b74012cd41.807b0bce10e217d03e900f869ccc5784.jpeg"
+    },
+    {
+      "id": "5db7",
+      "nombre": "Play Station",
+      "precio": "s/. 150.0",
+      "imagen": "https://i5.walmartimages.com/seo/Restored-Sony-PlayStation-1-Console-Refurbished_0064527a-5484-4282-b3a4-7e83e3f9c6d3.4c7170e3ee39c53d56a3d497587f5275.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+      "id": "f28f",
+      "nombre": "Play Station 2",
+      "precio": "s/. 250.0",
+      "imagen": "https://i5.walmartimages.com/asr/7348e500-9536-4ee6-9117-1bc0949fe008.4d224836742f0cc1d9529023d521e2cf.jpeg"
+    },
+    {
+      "id": "128f",
+      "nombre": "Xbox",
+      "precio": "s/. 250.0",
+      "imagen": "https://m.media-amazon.com/images/I/61wWE8OPfTL._SL1000_.jpg"
+    },
+    {
+      "id": "6a40",
+      "nombre": "Wii",
+      "precio": "s/. 350.0",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wii_console.png"
+    },
+    {
+      "id": "22e6",
+      "nombre": "iPhone",
+      "precio": "s/. 500.0",
+      "imagen": "https://cdsassets.apple.com/content/services/pub/image?productid=132035&size=240x240"
+    }
+  ]
+}
